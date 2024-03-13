@@ -7,3 +7,5 @@ Sumérgete en la vanguardia del monitoreo urbano y descubre cómo la combinació
 Este repositorio está dedicado a difundir y mantener actualizados los scripts desarrollados en el proyecto de investigación de maestría titulado "Monitoreo del crecimiento urbano en zonas vulnerables empleando imágenes satelitales e inteligencia artificial.
 
 **Contribuidor:** Ing. Javier Alonso Jaimes Cucho
+
+Asesor: Dr. Luis Angel Moya Huallpa
