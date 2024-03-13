@@ -1,6 +1,6 @@
 # Monitoring-urban-growth-in-high-hazard-areas-with-AI
 
-![Advance]()
+![Advance](IMG/IMG3.pdf)
 
 Sumérgete en la vanguardia del monitoreo urbano y descubre cómo la combinación de tecnologías avanzadas puede ayudar a abordar los desafíos de las zonas vulnerables.
 
