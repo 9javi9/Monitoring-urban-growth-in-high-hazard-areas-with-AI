@@ -8,4 +8,4 @@ Este repositorio está dedicado a difundir y mantener actualizados los scripts d
 
 **Contribuidor:** Ing. Javier Alonso Jaimes Cucho
 
-Asesor: Dr. Luis Angel Moya Huallpa
+**Asesor:** Dr. Luis Angel Moya Huallpa ([<span style="color:blue">Página personal.</span>](https://scholar.google.co.jp/citations?user=uJc3iy4AAAAJ&hl=en))
